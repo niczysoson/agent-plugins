@@ -67,6 +67,8 @@ To add a plugin to the marketplace, add an entry to the relevant `marketplace.js
 }
 ```
 
+> **Note (personal fork):** I've been using this repo mainly to experiment with productivity and data-fetching plugins. If you're browsing this fork, the `main` branch may occasionally be ahead of or behind upstream — check [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) for the canonical version.
+
 ## Issue Reporting
 
 Please use the appropriate issue template:
