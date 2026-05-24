@@ -68,6 +68,8 @@ To add a plugin to the marketplace, add an entry to the relevant `marketplace.js
 ```
 
 > **Note (personal fork):** I've been using this repo mainly to experiment with productivity and data-fetching plugins. If you're browsing this fork, the `main` branch may occasionally be ahead of or behind upstream — check [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) for the canonical version.
+>
+> **Personal categories I'm actively exploring:** `data-fetching`, `productivity`, and `llm-tooling`. PRs in those areas are most likely to get a timely review from me.
 
 ## Issue Reporting
 
@@ -87,4 +89,4 @@ This project is licensed under the Apache License 2.0 — see the [LICENSE](LICE
 
 ## Acknowledgments
 
-This project is a fork of [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins). We thank the original authors and contributors for their work.
+This project is a fork of [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins).
